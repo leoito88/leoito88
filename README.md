@@ -3,7 +3,7 @@
 
 # ¡Hola! 👋 Soy Leandro 😄
 
-!GitHub followers
+Bienvenido a mi GitHub!
 
 ## Acerca de mí
 
