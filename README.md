@@ -1,4 +1,4 @@
-![Portada](https://github.com/leoito88/leoito88/main/noteb.jpg)
+![Portada](https://github.com/leoito88/leoito88/blob/main/noteb.jpg)
 
 
 # ¡Hola! 👋 Soy Leandro 😄
