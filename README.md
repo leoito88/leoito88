@@ -9,11 +9,6 @@ Bienvenido a mi GitHub!
 
 Soy un apasionado desarrollador de software con experiencia en tecnologías como HTML, CSS, JavaScript y Git. Me encanta crear aplicaciones web y aprender nuevas habilidades.
 
-## Proyectos Destacados
-
-- Proyecto 1: Breve descripción del proyecto.
-- Proyecto 2: Otra breve descripción.
-
 ## Habilidades
 
 - **Frontend**: HTML, CSS, JavaScript, Angular, React.
