@@ -1,3 +1,6 @@
+![Portada](https://github.com/leoito88/leoito88/main/noteb.jpg)
+
+
 # ¡Hola! 👋 Soy Leandro 😄
 
 !GitHub followers
