@@ -22,5 +22,5 @@ Soy un apasionado desarrollador de software con experiencia en tecnologías como
 
 ¡No dudes en explorar mis repositorios y conectarte conmigo! 😊
 
-![Visitor Count](https://profile-counter.glitch.me/leoito88/count.svg)
+![](https://komarev.com/ghpvc/?username=leoito88&color=red)
 
