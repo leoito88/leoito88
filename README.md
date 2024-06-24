@@ -22,5 +22,7 @@ Soy un apasionado desarrollador de software con experiencia en tecnologías como
 
 ¡No dudes en explorar mis repositorios y conectarte conmigo! 😊
 
+
+[![Leoito88's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoito88)](https://github.com/leoito88/)
 ![](https://komarev.com/ghpvc/?username=leoito88&color=red)
 
