@@ -35,6 +35,6 @@ Feel free to explore my repositories and connect with me! 😊
 </p>
 
 <p align="center">
-    <img src="(https://komarev.com/ghpvc/?username=leoito88&color=red)" alt="Contador" />
+    <img src="https://komarev.com/ghpvc/?username=leoito88&color=red" alt="Contador" />
 ![](https://komarev.com/ghpvc/?username=leoito88&color=red)
 </p>
