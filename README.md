@@ -29,12 +29,10 @@ Feel free to explore my repositories and connect with me! 😊
 
 ## Statistics
 <p align="center">
-    https://github-readme-stats.vercel.app/api?username=leoito88&theme=calm_pink&show_icons=true
-    [![Leoito88's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoito88&theme=calm_pink&show_icons=true)](https://github.com/leoito88/)    
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoito88&layout=compact&theme=calm_pink&size_weight=0.5&count_weight=0.5)
+    <img src="https://github-readme-stats.vercel.app/api?username=leoito88&theme=calm_pink&show_icons=true" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoito88&layout=compact&theme=calm_pink&size_weight=0.5&count_weight=0.5" alt="Stats" />
 </p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=leoito88&color=red" alt="Contador" />
-![](https://komarev.com/ghpvc/?username=leoito88&color=red)
 </p>
