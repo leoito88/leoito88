@@ -17,10 +17,10 @@ I’m a passionate software developer :computer: with experience in technologies
 
 ## :speech_balloon: Contact
 
-- ![image](https://github.com/leoito88/leoito88/assets/59623841/0bf2307c-567d-4bbd-9095-240ee703df62)
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leandro-rojano-258b97288/)
  LinkedIn : https://www.linkedin.com/in/leandro-rojano-258b97288/
 - 📧 Email: leandrorojano@gmail.com
-- ![image](https://github.com/leoito88/leoito88/assets/59623841/2b45b351-bb1c-498d-ad53-916107dd7df6)
+- [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/leoito88)
  Instagram: https://instagram.com/leoito88
 
 Feel free to explore my repositories and connect with me! 😊
