@@ -17,9 +17,11 @@ I’m a passionate software developer :computer: with experience in technologies
 
 ## :speech_balloon: Contact
 
-- 💼 LinkedIn : https://www.linkedin.com/in/leandro-rojano-258b97288/
+- ![image](https://github.com/leoito88/leoito88/assets/59623841/0bf2307c-567d-4bbd-9095-240ee703df62)
+ LinkedIn : https://www.linkedin.com/in/leandro-rojano-258b97288/
 - 📧 Email: leandrorojano@gmail.com
-- :camera: Instagram: @leoito88
+- ![image](https://github.com/leoito88/leoito88/assets/59623841/2b45b351-bb1c-498d-ad53-916107dd7df6)
+ Instagram: https://instagram.com/leoito88
 
 Feel free to explore my repositories and connect with me! 😊
 
@@ -29,7 +31,7 @@ Feel free to explore my repositories and connect with me! 😊
 
 ## Statistics
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=leoito88&theme=calm_pink&show_icons=true" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=leoito88&theme=calm_pink&show_icons=true" alt="Stats" /> <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoito88&layout=compact&theme=calm_pink&size_weight=0.5&count_weight=0.5" alt="Stats" />
 </p>
 
