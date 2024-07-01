@@ -19,7 +19,7 @@ I’m a passionate software developer :computer: with experience in technologies
 
 - [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leandro-rojano-258b97288/)
  LinkedIn : https://www.linkedin.com/in/leandro-rojano-258b97288/
-- 📧 Email: leandrorojano@gmail.com
+- [![My Skills](https://skillicons.dev/icons?i=gmail)](leandrorojano@gmail.com) Email: leandrorojano@gmail.com
 - [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/leoito88)
  Instagram: https://instagram.com/leoito88
 
